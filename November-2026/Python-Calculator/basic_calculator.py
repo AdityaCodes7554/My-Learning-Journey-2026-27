@@ -20,7 +20,7 @@ while True:
 
         
     try:
-        num2_input = input("Enter Second Number : ")
+        num2_input = input("Enter Second Number or q to Quit : ")
 
         if num2_input.lower() == "q":
             print("Goodbye! Thanks for using Python Calculator😊")
